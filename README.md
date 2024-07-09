@@ -201,7 +201,7 @@ track_name,
 FROM
   `projeto-2-hipoteses-420502.Spotify.Powerbi_corrigida`
 ```
-### 2.6-Identificar e tratar dados discrepantes em variáveis numéricas
+### 2.6-Identificar e tratar dados discrepantes em variáveis numéricas.
 
 2.6.1- Ao realizar a consulta abaixo, encontrei um campo na coluna streams correspondete a uma string, sendo ele: BPM110KeyAModeMajorDanceability53Valence75Energy69Acousticness7Instrumentalness0Liveness17Speechiness3
 
